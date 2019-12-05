@@ -23,3 +23,4 @@ function find($dir, $pattern){
     // return all found files 
     return $files;
 }
+?>
